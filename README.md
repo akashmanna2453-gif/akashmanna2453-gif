@@ -6,32 +6,70 @@ I'm a Second-year BSc IT student passionate about building useful projects, expl
 
 ---
 
-### 🛠️ What I Work With
+## 🛠️ What I Work With
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Database:** SQL, Oracle
-- **Development:** Responsive Websites, Web Applications
-- **Tools:** Git, GitHub, VS Code, Vercel
-- **Interests:** Cybersecurity, Web Development, Technology
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+</p>
+
+### 🌐 Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+</p>
+
+### 🎯 Technologies & Interests
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unreal,python,cpp,linux" />
+</p>
+
+- 🔐 Cybersecurity
+- 🌐 Web Development
+- 🐍 Python Programming
+- 🎮 Game Development & Unreal Engine
+- 💡 Emerging Technologies
 
 ---
 
-### 🚀 What I'm Building
+## 🚀 What I'm Building
 
 I enjoy turning ideas into working projects and experimenting with new technologies through personal, academic, and real-world projects.
 
+- 🌐 Responsive websites
+- 💻 Web applications
+- 🗄️ Database projects
+- 🐍 Python projects
+- 🎓 Academic projects
+- 🚀 Personal technology experiments
+
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 Check out my pinned repositories below to see some of my latest work.
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 - **Portfolio:** [AkaStudio](https://akastudio.vercel.app/)
 - **LinkedIn:** [Akash Manna](https://www.linkedin.com/in/akash-manna-9a6b01394/)
+- **GitHub:** [akashmanna2453-gif](https://github.com/akashmanna2453-gif)
 
 ---
 
@@ -43,13 +81,32 @@ Check out my pinned repositories below to see some of my latest work.
 
 ---
 
-## 💻 GitHub Profile
+## 🧰 Tech Stack
 
 <p align="center">
-  <a href="https://github.com/akashmanna2453-gif">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,oracle,git,github,vscode,vercel,linux,unreal" />
 </p>
+
+---
+
+## ⚡ Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,linux" />
+</p>
+
+- Python Programming
+- C++
+- Database Management Systems
+- Linux
+- Web Development
+- Cybersecurity Fundamentals
+
+---
+
+## 💭 My Approach
+
+> Learn → Build → Experiment → Improve → Repeat 🔄
 
 ---
 
