@@ -6,32 +6,48 @@ I'm a Second-year BSc IT student passionate about building useful projects, expl
 
 ---
 
-### 🛠️ What I Work With
+## 🛠️ Skills & Technologies
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Database:** SQL, Oracle
-- **Development:** Responsive Websites, Web Applications
-- **Tools:** Git, GitHub, VS Code, Vercel
-- **Interests:** Cybersecurity, Web Development, Technology
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" />
+</p>
+
+### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+</p>
+
+### Interests
+- Cybersecurity
+- Web Development
+- Technology
+- Game Development
 
 ---
 
-### 🚀 What I'm Building
+## 🚀 What I'm Building
 
 I enjoy turning ideas into working projects and experimenting with new technologies through personal, academic, and real-world projects.
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 Check out my pinned repositories below to see some of my latest work.
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 - **Portfolio:** [AkaStudio](https://akastudio.vercel.app/)
 - **LinkedIn:** [Akash Manna](https://www.linkedin.com/in/akash-manna-9a6b01394/)
+- **GitHub:** [akashmanna2453-gif](https://github.com/akashmanna2453-gif)
 
 ---
 
@@ -39,16 +55,6 @@ Check out my pinned repositories below to see some of my latest work.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akashmanna2453-gif&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💻 GitHub Profile
-
-<p align="center">
-  <a href="https://github.com/akashmanna2453-gif">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
