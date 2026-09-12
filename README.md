@@ -6,34 +6,56 @@ I'm a Second-year BSc IT student passionate about building useful projects, expl
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ What I Work With
 
-### Languages
+### 💻 Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c" />
 </p>
 
-### Database
+### 🗄️ Database
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,oracle" />
 </p>
 
-### Tools & Platforms
+### 🌐 Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🔧 Tools & Platforms
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
 </p>
 
-### Interests
-- Cybersecurity
-- Web Development
-- Technology
-- Game Development
+### 🎯 Technologies & Interests
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unreal,python,cpp,linux" />
+</p>
+
+- 🔐 Cybersecurity
+- 🌐 Web Development
+- 🐍 Python Programming
+- 🎮 Game Development & Unreal Engine
+- 💡 Emerging Technologies
 
 ---
 
 ## 🚀 What I'm Building
 
 I enjoy turning ideas into working projects and experimenting with new technologies through personal, academic, and real-world projects.
+
+- 🌐 Responsive websites
+- 💻 Web applications
+- 🗄️ Database projects
+- 🐍 Python projects
+- 🎓 Academic projects
+- 🚀 Personal technology experiments
 
 ---
 
@@ -56,6 +78,35 @@ Check out my pinned repositories below to see some of my latest work.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akashmanna2453-gif&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,oracle,git,github,vscode,vercel,linux,unreal" />
+</p>
+
+---
+
+## ⚡ Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,linux" />
+</p>
+
+- Python Programming
+- C++
+- Database Management Systems
+- Linux
+- Web Development
+- Cybersecurity Fundamentals
+
+---
+
+## 💭 My Approach
+
+> Learn → Build → Experiment → Improve → Repeat 🔄
 
 ---
 
