@@ -13,18 +13,21 @@
 
 ## 📌 About Me
 
-🎓 Second-year BSc Information Technology student at SIES College of Arts, Science & Commerce (Mumbai University)
-🎯 Working toward a Product Management role — building a foundation through technical projects and a planned MBA
-💻 Comfortable with Python, C, C++, and front-end development (HTML, CSS, JavaScript)
-🗄️ Familiar with Oracle databases and core DBMS concepts
-🌱 Currently building real-world projects and freelance web experience to strengthen my portfolio
+- 🎓 Second-year **BSc Information Technology** student at SIES College of Arts, Science & Commerce (Mumbai University)
+- 💻 Comfortable with **Python, C, C++**, and front-end development (**HTML, CSS, JavaScript**)
+- 🗄️ Familiar with **Oracle** databases and core DBMS concepts
+- 🌱 Currently building real-world projects and freelance web experience to strengthen my portfolio
+- 🤝 2 years as part of the **Entrepreneurship Cell — Media Team**, handling event promotion content and design
+- 🏸 District-level badminton player
+- 🗣️ Fluent in English, Hindi, Bengali, and Marathi
+
 ---
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akashmanna2453-gif&theme=default&hide_border=true&background=FFFFFF&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2)](https://github.com/akashmanna2453-gif)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akashmanna2453-gif&theme=radical&hide_border=true)](https://github.com/akashmanna2453-gif)
 
 </div>
 
