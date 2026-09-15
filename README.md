@@ -95,29 +95,14 @@ I believe the best way to learn technology is by building real projects, solving
   <a href="https://akastudio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-AkaStudio-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/akash-manna/">
     <img src="https://img.shields.io/badge/LinkedIn-Akash%20Manna-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://github.com/akashmanna2453-gif">
     <img src="https://img.shields.io/badge/GitHub-akashmanna2453--gif-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashmanna2453-gif&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmanna2453-gif&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=akashmanna2453-gif&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
