@@ -1,126 +1,85 @@
-# Hi, I'm Akash 👋
+<div align="center">
 
-### BSc IT Student | Web Developer | Python | Cybersecurity & Technology
+# Hi 👋, I'm Akash Manna
 
-I'm a second-year BSc IT student passionate about building useful projects, exploring technology, and continuously improving my technical skills.
+### BSc IT Student | Aspiring Product Manager | Web Developer
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-manna-9a6b01394)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akashmanna2453-gif)
 
-## 🛠️ What I Work With
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,unreal" />
-</p>
+</div>
 
 ---
 
-## 🎯 Technologies & Interests
+## 📌 About Me
 
-- 🔐 Cybersecurity
-- 🌐 Web Development
-- 🐍 Python Programming
-- 🎮 Game Development & Unreal Engine
-- 💡 Emerging Technologies
-- 🗄️ Database Management
-
----
-
-## 🚀 What I'm Building
-
-I enjoy turning ideas into working projects and experimenting with new technologies through personal, academic, and real-world projects.
-
-- 🌐 Responsive Websites
-- 💻 Web Applications
-- 🗄️ Database Projects
-- 🐍 Python Projects
-- 🎓 Academic Projects
-- 🚀 Personal Technology Experiments
-
----
-
-## 📌 Featured Projects
-
-Check out my **pinned repositories** below to see some of my latest work.
-
-> More projects coming as I continue learning and building.
-
----
-
-## 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,linux" />
-</p>
-
-- 🐍 Python Programming
-- 💻 C++
-- 🗄️ Database Management Systems
-- 🐧 Linux
-- 🌐 Web Development
-- 🔐 Cybersecurity Fundamentals
-
----
-
-## 🧠 My Approach
-
-> **Learn → Build → Experiment → Improve → Repeat 🔄**
-
-I believe the best way to learn technology is by building real projects, solving problems, and continuously improving.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://akastudio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-AkaStudio-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/akash-manna/">
-    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Manna-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/akashmanna2453-gif">
-    <img src="https://img.shields.io/badge/GitHub-akashmanna2453--gif-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- 🎓 Second-year **BSc Information Technology** student at SIES College of Arts, Science & Commerce (Mumbai University)
+- 🎯 Working toward a **Product Management** role — building a foundation through technical projects and a planned MBA
+- 💻 Comfortable with **Python, C, C++**, and front-end development (**HTML, CSS, JavaScript**)
+- 🗄️ Familiar with **Oracle** databases and core DBMS concepts
+- 🌱 Currently building real-world projects and freelance web experience to strengthen my portfolio
+- 🤝 2 years as part of the **Entrepreneurship Cell — Media Team**, handling event promotion content and design
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=akashmanna2453-gif"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akashmanna2453-gif&theme=default&hide_border=true&background=FFFFFF&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2)](https://github.com/akashmanna2453-gif)
+
+</div>
+
 ---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Web**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Database & Tools**
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+**Portfolio Website (Security/Hacker Theme)**
+Personal portfolio built with HTML, CSS, and JavaScript — dark theme, animated sections, project cards, and a contact form. Hosted on GitHub Pages.
+🔗 *[Add live link here]*
+
+**Python Complete Roadmap: Zero to Pro**
+A self-built, multi-section educational resource website guiding learners through Python from beginner to advanced level. Hosted on GitHub Pages.
+🔗 *[Add live link here]*
+
+---
+
+## 💼 Freelance Web Development
+
+I design and deliver professional static websites for individuals and small businesses — built with **HTML, CSS, and JavaScript** (no backend required), with **WhatsApp, LinkedIn, and GitHub integration**, and deployed on **Vercel** for fast, reliable hosting.
+
+- Custom-built, lightweight, and mobile-friendly websites
+- Quick turnaround with direct client communication via WhatsApp
+- Packages starting at **₹1,999**
+
+📩 Interested in a website? Reach out via [LinkedIn](https://www.linkedin.com/in/akash-manna-9a6b01394) or WhatsApp.
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Improving 🚀**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-manna-9a6b01394)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akashmanna2453-gif)
 
 </div>
