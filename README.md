@@ -107,6 +107,17 @@ I believe the best way to learn technology is by building real projects, solving
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=akashmanna2453-gif&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
