@@ -13,7 +13,11 @@
 
 ## 📌 About Me
 
-
+🎓 Second-year BSc Information Technology student at SIES College of Arts, Science & Commerce (Mumbai University)
+🎯 Working toward a Product Management role — building a foundation through technical projects and a planned MBA
+💻 Comfortable with Python, C, C++, and front-end development (HTML, CSS, JavaScript)
+🗄️ Familiar with Oracle databases and core DBMS concepts
+🌱 Currently building real-world projects and freelance web experience to strengthen my portfolio
 ---
 
 ## 🔥 GitHub Streak
