@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-manna-9a6b01394)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akashmanna2453-gif)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://akastudio.vercel.app/)
 
 </div>
 
@@ -54,13 +55,10 @@
 
 ## 🚀 Projects
 
-**Portfolio Website (Security/Hacker Theme)**
-Personal portfolio built with HTML, CSS, and JavaScript — dark theme, animated sections, project cards, and a contact form. Hosted on GitHub Pages.
-🔗 *[Add live link here]*
+🔗 **[View All Projects — akaprojects.vercel.app](https://akaprojects.vercel.app/)**
 
-**Python Complete Roadmap: Zero to Pro**
-A self-built, multi-section educational resource website guiding learners through Python from beginner to advanced level. Hosted on GitHub Pages.
-🔗 *[Add live link here]*
+**Portfolio Website (Security/Hacker Theme)**
+Personal portfolio built with HTML, CSS, and JavaScript — dark theme, animated sections, project cards, and a contact form.
 
 ---
 
@@ -72,6 +70,7 @@ I design and deliver professional static websites for individuals and small busi
 - Quick turnaround with direct client communication via WhatsApp
 - Packages starting at **₹1,999**
 
+🌐 **Website:** [akastudio.vercel.app](https://akastudio.vercel.app/)
 📩 Interested in a website? Reach out via [LinkedIn](https://www.linkedin.com/in/akash-manna-9a6b01394) or WhatsApp.
 
 ---
