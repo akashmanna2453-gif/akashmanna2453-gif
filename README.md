@@ -24,13 +24,11 @@
 
 ---
 
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=akashmanna2453-gif)
+[![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=akashmanna2453-gif&theme=aurora)](https://github.com/encryptedtouhid/github_readme_stats)
 
 </div>
 
