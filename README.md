@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=akashmanna2453-gif&theme=aurora&ring=00E5FF&fire=FF6B35&curr_streak_num=FFFFFF&side_nums=7CFF00&curr_streak_label=00E5FF&side_labels=FF66CC&dates=B0BEC5&border=8A2BE2&stroke=6C63FF&background=0D1117)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akashmanna2453-gif&theme=radical&ring=00E5FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=7CFF00&currStreakLabel=00E5FF&sideLabels=FF66CC&dates=B0BEC5&border=8A2BE2&stroke=6C63FF&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
