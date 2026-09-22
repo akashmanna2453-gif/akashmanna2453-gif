@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Akash Manna
 
-### BSc IT Student | Aspiring Software Developer | Web Developer
+### BSc IT Student | Web Developer | Tech Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-manna-9a6b01394)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akashmanna2453-gif)
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=akashmanna2453-gif&theme=aurora)](https://github.com/encryptedtouhid/github_readme_stats)
+![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=akashmanna2453-gif&theme=aurora&ring=00E5FF&fire=FF6B35&curr_streak_num=FFFFFF&side_nums=7CFF00&curr_streak_label=00E5FF&side_labels=FF66CC&dates=B0BEC5&border=8A2BE2&stroke=6C63FF&background=0D1117)
 
 </div>
 
