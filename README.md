@@ -24,11 +24,11 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akashmanna2453-gif&theme=dark)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashmanna2453-gif&show_icons=true&theme=dark&hide_border=true)
 
 </div>
 
@@ -36,17 +36,17 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Web**
+**Web**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Database & Tools**
+**Database & Tools**  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -57,7 +57,7 @@
 
 🔗 **[View All Projects — akaprojects.vercel.app](https://akaprojects.vercel.app/)**
 
-**Portfolio Website (Security/Hacker Theme)**
+**Portfolio Website (Security/Hacker Theme)**  
 Personal portfolio built with HTML, CSS, and JavaScript — dark theme, animated sections, project cards, and a contact form.
 
 ---
@@ -70,7 +70,7 @@ I design and deliver professional static websites for individuals and small busi
 - Quick turnaround with direct client communication via WhatsApp
 - Packages starting at **₹1,999**
 
-🌐 **Website:** [akastudio.vercel.app](https://akastudio.vercel.app/)
+🌐 **Website:** [akastudio.vercel.app](https://akastudio.vercel.app/)  
 📩 Interested in a website? Reach out via [LinkedIn](https://www.linkedin.com/in/akash-manna-9a6b01394) or WhatsApp.
 
 ---
