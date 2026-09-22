@@ -28,7 +28,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akashmanna2453-gif&theme=radical&hide_border=true)](https://github.com/akashmanna2453-gif)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akashmanna2453-gif)](https://git.io/streak-stats)
 
 </div>
 
