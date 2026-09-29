@@ -24,7 +24,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub-Streak
 
 <div align="center">
 
