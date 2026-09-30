@@ -18,7 +18,7 @@
 - 💻 Comfortable with **Python, C, C++**, and front-end development (**HTML, CSS, JavaScript**)
 - 🗄️ Familiar with **Oracle** databases and core DBMS concepts
 - 🌱 Currently building real-world projects and freelance web experience to strengthen my portfolio
-- 🤝 2 years as part of the **Entrepreneurship Cell — Media Team**, handling event promotion content and design
+- 🤝 2 years as part of the **Entrepreneurship Cell — Media Team**, handling event promotion content and design.
 - 🏸 District-level badminton player
 - 🗣️ Fluent in English, Hindi, Bengali, and Marathi
 
