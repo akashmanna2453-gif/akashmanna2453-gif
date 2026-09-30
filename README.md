@@ -120,18 +120,11 @@ Frontend website project.
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=akashmanna2453-gif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
+    width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmanna2453-gif&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=akashmanna2453-gif&theme=tokyonight&hide_border=true"
-    width="500"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=akashmanna2453-gif&theme=tokyonight&hide_border=true"
+    width="49%"
   />
 </p>
 
@@ -152,13 +145,11 @@ Frontend website project.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/akashmanna2453-gif/akashmanna2453-gif/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/akashmanna2453-gif/akashmanna2453-gif/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
-
----
 
 ## 💼 `AKA.STUDIO`
 
