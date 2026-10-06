@@ -180,12 +180,6 @@ Frontend website project.
 
 <div align="center">
 
-## 🐍 `CONTRIBUTION GRAPH`
-
-<img src="https://raw.githubusercontent.com/akashmanna2453-gif/akashmanna2453-gif/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
 ---
 
 ## 💼 `AKA.STUDIO`
