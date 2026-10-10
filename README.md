@@ -1,51 +1,38 @@
-<!-- ═══════════ AKASH MANNA • ETHICAL HACKER THEME ═══════════ -->
+<!-- ═══════════════ AKASH MANNA • GITHUB PROFILE ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:003B00,100:000000&text=AKASH%20MANNA&fontSize=60&fontColor=00FF41&fontAlignY=40&desc=%5B%20BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20SECURE%20%E2%80%A2%20SHIP%20%5D&descAlignY=62&descSize=18&descColor=00FF41&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00F7FF,50:8B5CF6,100:FF2E93&text=AKASH%20MANNA&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Build%20%E2%80%A2%20Create%20%E2%80%A2%20Learn%20%E2%80%A2%20Ship&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=780&height=50&lines=root%40akash%3A~%23+whoami;BSc+IT+Student+%7C+Web+Developer+%7C+Mumbai;Founder+%E2%86%92+AKA.STUDIO;Learning+Cybersecurity+%26+Ethical+Hacking;Python+%7C+C%2B%2B+%7C+JavaScript;root%40akash%3A~%23+hack+the+planet+%28ethically%29+%F0%9F%9B%A1%EF%B8%8F" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=760&height=50&lines=%3E+BSc+IT+Student+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%3E+Founder+of+AKA.STUDIO+%F0%9F%9A%80;%3E+Web+Developer+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;%3E+Turning+ideas+into+real+websites;%3E+Learning+by+building.+Always." alt="typing"/>
 
 <br/>
 
-<a href="https://akastudio.vercel.app/"><img src="https://img.shields.io/badge/AKA.STUDIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000"/></a>
-<a href="https://www.linkedin.com/in/akash-manna-9a6b01394/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41"/></a>
-<a href="https://leetcode.com/u/Akash_manna2453/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00FF41&color=00FF41"/></a>
-<a href="https://tryhackme.com/p/akash.manna2453"><img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41&color=00FF41"/></a>
+<a href="https://akastudio.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_AKA.STUDIO-00F7FF?style=for-the-badge&logoColor=black&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/akash-manna-9a6b01394/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Akash_manna2453/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://tryhackme.com/p/akash.manna2453"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=akashmanna2453-gif&style=for-the-badge&color=00FF41&labelColor=000000&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/akashmanna2453-gif?style=for-the-badge&logo=github&color=00FF41&labelColor=000000"/>
-<img src="https://img.shields.io/github/stars/akashmanna2453-gif?style=for-the-badge&logo=github&color=00FF41&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=akashmanna2453-gif&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/akashmanna2453-gif?style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/akashmanna2453-gif?style=for-the-badge&logo=github&color=FF2E93&labelColor=0D1117"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%"/>
+<br/>
 
-## `> SYSTEM BOOT`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```bash
-[  OK  ] Initializing profile .................. akashmanna2453-gif
-[  OK  ] Loading identity ...................... Akash Manna
-[  OK  ] Mounting education .................... BSc IT
-[  OK  ] Starting web-dev service .............. HTML | CSS | JS
-[  OK  ] Starting studio daemon ................ AKA.STUDIO
-[  OK  ] Loading languages ..................... Python | C++ | C | JS
-[  OK  ] Connecting to TryHackMe ............... learning in progress
-[ WARN ] Coffee level low ...................... refill required ☕
-[  OK  ] System ready. Welcome.
-```
-
-## `> cat whoami.txt`
+## ⚡ `~/akash/whoami`
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
-user:        Akash Manna
-alias:       akashmanna2453-gif
+name:        Akash Manna
 role:        Web Developer & Founder
 studio:      AKA.STUDIO
 education:   BSc IT (Student)
@@ -54,32 +41,31 @@ languages:   [Python, C++, C, JavaScript]
 web:         [HTML, CSS, JS]
 tools:       [Git, GitHub, VS Code, Vercel]
 databases:   [MySQL, Oracle]
-exploring:   Cybersecurity & Ethical Hacking
-motto:       "Learning by building."
-status:      🟢 ONLINE | open for website projects
+mindset:     "Learning by building."
+status:      🟢 Open for website projects
 ```
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=320&height=130&lines=%24+learn+--daily;%24+build+--projects;%24+break+--ethically;%24+ship+--always;%24+grow+--AKA.STUDIO+%F0%9F%9A%80" alt="commands"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=330&height=120&lines=Tutorials+%E2%86%92+Projects;Projects+%E2%86%92+Clients;Clients+%E2%86%92+Growth;Growth+%E2%86%92+AKA.STUDIO+%F0%9F%9A%80" alt="journey"/>
 
 </td>
 </tr>
 </table>
 
-## `> ./currently.sh`
+## 🧠 `CURRENTLY`
 
 <div align="center">
 
-| 🔨 BUILDING | 📚 LEARNING | 🛡️ EXPLORING | 🎯 FOCUS |
-|:---:|:---:|:---:|:---:|
-| Real-world client websites | Python & core fundamentals | Cybersecurity on TryHackMe | Growing AKA.STUDIO |
-| Frontend web projects | Git & GitHub workflows | Problem solving on LeetCode | Shipping > Tutorials |
+| 🔨 Building | 📚 Learning | 🎯 Focus |
+|:---:|:---:|:---:|
+| Real-world client websites | Python & core programming fundamentals | Growing AKA.STUDIO |
+| Frontend web projects | Git & GitHub workflows | Shipping > Tutorials |
 
 </div>
 
-## `> ls ~/tech-arsenal`
+## 🛠️ `TECH ARSENAL`
 
 <div align="center">
 
@@ -97,7 +83,7 @@ status:      🟢 ONLINE | open for website projects
 
 </div>
 
-## `> cd ~/projects`
+## 🚀 `FEATURED PROJECTS`
 
 <div align="center">
 
@@ -108,7 +94,7 @@ status:      🟢 ONLINE | open for website projects
 ### 🌐 AKA.STUDIO
 *Professional websites for individuals & small businesses.*
 
-<a href="https://akastudio.vercel.app/"><img src="https://img.shields.io/badge/LIVE_SITE-00FF41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000"/></a>
+<a href="https://akastudio.vercel.app/"><img src="https://img.shields.io/badge/Live_Site-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </td>
 <td align="center" width="50%">
@@ -116,7 +102,7 @@ status:      🟢 ONLINE | open for website projects
 ### 🩺 Dr. Monisa Manna
 *A real-world professional website, delivered live.*
 
-<a href="https://drmonisamanna.vercel.app/"><img src="https://img.shields.io/badge/LIVE_SITE-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000"/></a>
+<a href="https://drmonisamanna.vercel.app/"><img src="https://img.shields.io/badge/Live_Site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -124,4 +110,103 @@ status:      🟢 ONLINE | open for website projects
 <td align="center" width="50%">
 
 ### 📝 EDITOR
-*A clean, responsive frontend
+*A clean, responsive frontend editor interface built with HTML & CSS, focused on a distraction-free writing experience and sharp UI design.*
+
+<a href="https://github.com/akashmanna2453-gif/EDITOR"><img src="https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github"/></a>
+
+</td>
+<td align="center" width="50%">
+
+### 🏋️ Universal Fitness Hub
+*A modern fitness website concept with a bold layout and a mobile-friendly design, built to present workouts and fitness content in a motivating way.*
+
+<a href="https://github.com/akashmanna2453-gif/universalfitnesshub"><img src="https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github"/></a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 💼 `AKA.STUDIO`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Simple+Websites.+Real+Businesses.;Professional+Online+Presence.;Built+For+People+Who+Need+It." />
+
+**`Affordable`** • **`Responsive`** • **`Modern`** • **`Direct`**
+
+Websites for individuals, portfolios and small/local businesses.
+
+<a href="https://akastudio.vercel.app/">
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_START_A_PROJECT-FF2E93?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</div>
+
+## 📊 `GITHUB ANALYTICS`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akashmanna2453-gif&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmanna2453-gif&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF&langs_count=8"/>
+
+<img width="700" src="https://streak-stats.demolab.com?user=akashmanna2453-gif&theme=transparent&hide_border=true&ring=00F7FF&fire=8B5CF6&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=888888"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashmanna2453-gif&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true"/>
+
+</div>
+
+## 🏅 `ACHIEVEMENTS`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/akashmanna2453-gif?tab=achievements&achievement=quickdraw">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="130" alt="Quickdraw"/>
+</a>
+
+### Quickdraw
+*Closed an issue or pull request within 5 minutes of opening it. Fast hands, sharp focus.* ⚡
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://github.com/akashmanna2453-gif?tab=achievements&achievement=pull-shark">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="130" alt="Pull Shark"/>
+</a>
+
+### Pull Shark
+*Opened pull requests that got merged. Real collaboration, real contributions.* 🦈
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🎯 `ROADMAP`
+
+```diff
++ Build real-world websites for real clients
++ Master Python & programming fundamentals
++ Level up Git & GitHub workflows
++ Solve problems on LeetCode
++ Explore security on TryHackMe
++ Grow AKA.STUDIO into a go-to web studio
+```
+
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%22Don't+watch+tutorials+forever.+Build+something.%22" />
+
+### `BUILD  •  LEARN  •  SHIP`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F7FF,50:8B5CF6,100:FF2E93&animation=twinkling"/>
+
+</div>
