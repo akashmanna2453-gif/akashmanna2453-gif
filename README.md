@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:00F7FF,50:8B5CF6,100:FF2E93&text=AKASH%20MANNA&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=Build%20%E2%80%A2%20Create%20%E2%80%A2%20Learn%20%E2%80%A2%20Ship&descAlignY=64&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00F7FF,50:8B5CF6,100:FF2E93&text=AKASH%20MANNA&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Build%20%E2%80%A2%20Create%20%E2%80%A2%20Learn%20%E2%80%A2%20Ship&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=760&height=50&lines=%3E+BSc+IT+Student+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%3E+Founder+of+AKA.STUDIO+%F0%9F%9A%80;%3E+Web+Developer+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;%3E+Turning+ideas+into+real+websites;%3E+Learning+by+building.+Always." alt="typing"/>
 
@@ -107,18 +107,20 @@ status:      🟢 Open for website projects
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-<a href="https://github.com/akashmanna2453-gif/EDITOR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmanna2453-gif&repo=EDITOR&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=8B5CF6&text_color=FFFFFF"/>
-</a>
+### 📝 EDITOR
+*A clean, responsive frontend editor interface built with HTML & CSS, focused on a distraction-free writing experience and sharp UI design.*
+
+<a href="https://github.com/akashmanna2453-gif/EDITOR"><img src="https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github"/></a>
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
-<a href="https://github.com/akashmanna2453-gif/universalfitnesshub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmanna2453-gif&repo=universalfitnesshub&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=8B5CF6&text_color=FFFFFF"/>
-</a>
+### 🏋️ Universal Fitness Hub
+*A modern fitness website concept with a bold layout and a mobile-friendly design, built to present workouts and fitness content in a motivating way.*
+
+<a href="https://github.com/akashmanna2453-gif/universalfitnesshub"><img src="https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github"/></a>
 
 </td>
 </tr>
@@ -155,11 +157,34 @@ Websites for individuals, portfolios and small/local businesses.
 
 </div>
 
-## 🏆 `TROPHIES`
+## 🏅 `ACHIEVEMENTS`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akashmanna2453-gif&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/akashmanna2453-gif?tab=achievements&achievement=yolo">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="130" alt="YOLO"/>
+</a>
+
+### YOLO
+*Merged a pull request without a review. Moves fast, ships faster.* ⚡
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://github.com/akashmanna2453-gif?tab=achievements&achievement=pull-shark">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="130" alt="Pull Shark"/>
+</a>
+
+### Pull Shark
+*Opened pull requests that got merged. Real collaboration, real contributions.* 🦈
+
+</td>
+</tr>
+</table>
 
 </div>
 
