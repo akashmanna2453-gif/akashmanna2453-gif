@@ -165,12 +165,12 @@ Websites for individuals, portfolios and small/local businesses.
 <tr>
 <td align="center" width="50%">
 
-<a href="https://github.com/akashmanna2453-gif?tab=achievements&achievement=yolo">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="130" alt="YOLO"/>
+<a href="https://github.com/akashmanna2453-gif?tab=achievements&achievement=quickdraw">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="130" alt="Quickdraw"/>
 </a>
 
-### YOLO
-*Merged a pull request without a review. Moves fast, ships faster.* ⚡
+### Quickdraw
+*Closed an issue or pull request within 5 minutes of opening it. Fast hands, sharp focus.* ⚡
 
 </td>
 <td align="center" width="50%">
