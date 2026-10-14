@@ -1,4 +1,4 @@
-<!-- ═══════════════ AKASH MANNA • GITHUB PUBLIC PROFILE ═══════════════ -->
+<!-- ═══════════════ AKASH MANNA • GITHUB PROFILE ═══════════════ -->
 
 <div align="center">
 
